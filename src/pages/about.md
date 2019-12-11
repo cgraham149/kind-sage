@@ -1,7 +1,7 @@
 ---
 title: About Me
 subtitle: This is a short page about us and our work.
-img_path: "/portfolio/v1576096380/portfolio/5d0b03c98435be7e838ec4e6_drpxzt.png"
+img_path: "/v1576098599/portfolio/gravatar_fajphz.jpg"
 menus:
   main:
     title: About

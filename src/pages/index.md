@@ -3,10 +3,10 @@ title: Home
 sections:
 - type: heroblock
   template: heroblock
-  title: Hi, I'm Craig Graham.  Welcome to my resume & portfolio site!
+  title: 'Hi, I''m Craig Graham.  '
   section_id: hero
   component: HeroBlock
-  content: "\\[I will write something more here at a later time.\\]"
+  content: Welcome to my resume & portfolio site!
 - type: portfolioblock
   template: portfolioblock
   title: Recent Work

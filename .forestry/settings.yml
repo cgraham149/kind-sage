@@ -67,7 +67,7 @@ sections:
   templates:
   - site_menus
 upload_dir: portfolio
-public_path: ''
+public_path: "/portfolio"
 front_matter_path: ''
 use_front_matter_path: 
 file_template: ":filename:"

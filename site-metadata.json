@@ -4,7 +4,8 @@
   "accent_color": "blue",
   "header": {
     "title": "Craig Graham",
-    "has_nav": true
+    "has_nav": true,
+    "logo_img": "/gravatar.jpg"
   },
   "footer": {
     "content": "&copy; Craig Graham. All rights reserved.",

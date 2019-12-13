@@ -1,6 +1,6 @@
 ---
-title: Project Title 1
-subtitle: Optional Project Subtitle
+title: Project Management
+subtitle: Agile | Kanban | SCRUM | Waterfall
 date: '2019-05-10'
 thumb_img_path: images/1_thumb.jpg
 content_img_path: images/1.jpg
